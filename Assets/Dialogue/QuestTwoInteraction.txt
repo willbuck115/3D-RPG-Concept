@@ -1,0 +1,12 @@
+-Harvey
+Hey! I just want to thank you again for your help and I know exactly how to reward you!
+Somewhere in this area there is a buried chest that contains an axe and some other treasures.
+Can you go and find it for me? If you find it you can have all that is inside!
+***OPTION***
+%ACCEPT_Good! You can find the chest using this old map of mine!
+%DECLINE_No worries. The offer is always there if you want it.
+***END OF INTERACTION***
+*Reward Phase*
+-Harvey
+Did you find it? Good! Please accept that as a token of my appreciation.
+***END OF FILE***

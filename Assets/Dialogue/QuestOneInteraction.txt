@@ -1,0 +1,14 @@
+-Harvey
+Howdy stranger! I don't think I've ever seen you round these parts before. What's your name?
+-?????
+I.. I don't know.
+-Harvey
+What do you mean? You know what it doesn't matter. I know we just met but I'm in desperate need of some help
+I was sent out to gather some fresh apples from the trees in this area but I also need some firewood. Can you help me?
+***OPTION***
+%ACCEPT_Good! I need 10 apples. You can grab apples by shaking the trees with your mouse!
+%DECLINE_Okay. Come and see me if you change your mind!
+*Reward Phase*
+-Harvey
+Thankyou so much! Really! you don't understand how much you've helped me. I must reward you in some way.
+***END OF FILE***
